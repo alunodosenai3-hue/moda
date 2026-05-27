@@ -1,0 +1,6 @@
+{
+  "name": "Aura Concept Store",
+  "description": "Landing page de alta conversão para Aura Concept Store - Moda Feminina Autoral e Atemporal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
